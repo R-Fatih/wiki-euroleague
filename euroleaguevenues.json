@@ -6,6 +6,20 @@
     "city": "Atina",
     "country": "Yunanistan"
   },
+   {
+    "code": "AUK2",
+    "name": "VIRTUS ARENA",
+    "wikiName": "Virtus Arena",
+    "city": "Bologna",
+    "country": "İtalya"
+  },
+  {
+    "code": "AUD",
+    "name": "ALLIANZ CLOUD",
+    "wikiName": "Allianz Cloud Arena",
+    "city": "Milano",
+    "country": "İtalya"
+  },
   {
     "code": "AMH",
     "name": "PALAU BLAUGRANA",
@@ -146,4 +160,5 @@
     "city": "Pira (şehir)|Pire",
     "country": "Yunanistan"
   }
+
 ]
