@@ -1,0 +1,182 @@
+[
+  {
+    "code": "IST",
+    "name": "Anadolu Efes Istanbul",
+    "abbreviatedName": "Anadolu Efes",
+    "tvCode": "EFS",
+    "countryCode": "TUR",
+    "wikiName": "Anadolu Efes SK|Anadolu Efes",
+    "city": "ISTANBUL"
+  },
+  {
+    "code": "MCO",
+    "name": "AS Monaco",
+    "abbreviatedName": "Monaco",
+    "tvCode": "ASM",
+    "countryCode": "MON",
+    "wikiName": "AS Monaco BC|Monaco",
+    "city": "Monaco"
+  },
+  {
+    "code": "BAS",
+    "name": "Baskonia Vitoria-Gasteiz",
+    "abbreviatedName": "Baskonia",
+    "tvCode": "BKN",
+    "countryCode": "ESP",
+    "wikiName": "Saski Baskonia",
+    "city": "VITORIA-GASTEIZ"
+  },
+  {
+    "code": "RED",
+    "name": "Crvena Zvezda Meridianbet Belgrade",
+    "abbreviatedName": "Crvena Zvezda",
+    "tvCode": "CZV",
+    "countryCode": "SRB",
+    "wikiName": "KK Crvena zvezda|Crvena zvezda",
+    "city": "BELGRADE"
+  },
+  {
+    "code": "DUB",
+    "name": "Dubai Basketball",
+    "abbreviatedName": "Dubai",
+    "tvCode": "DUB",
+    "countryCode": "UAE",
+    "wikiName": "Dubai Basketball",
+    "city": ""
+  },
+  {
+    "code": "MIL",
+    "name": "EA7 Emporio Armani Milan",
+    "abbreviatedName": "Milan",
+    "tvCode": "EA7",
+    "countryCode": "ITA",
+    "wikiName": "Olimpia Milano",
+    "city": "MILAN"
+  },
+  {
+    "code": "BAR",
+    "name": "FC Barcelona",
+    "abbreviatedName": "Barcelona",
+    "tvCode": "BAR",
+    "countryCode": "ESP",
+    "wikiName": "Barcelona (basketbol takımı)|Barcelona",
+    "city": "BARCELONA"
+  },
+  {
+    "code": "MUN",
+    "name": "FC Bayern Munich",
+    "abbreviatedName": "Bayern",
+    "tvCode": "BAY",
+    "countryCode": "GER",
+    "wikiName": "Bayern München (basketbol takımı)|Bayern Münih",
+    "city": "Munich"
+  },
+  {
+    "code": "ULK",
+    "name": "Fenerbahce Beko Istanbul",
+    "abbreviatedName": "Fenerbahce",
+    "tvCode": "FBB",
+    "countryCode": "TUR",
+    "wikiName": "Fenerbahçe (basketbol takımı)|Fenerbahçe",
+    "city": "ISTANBUL"
+  },
+  {
+    "code": "HTA",
+    "name": "Hapoel IBI Tel Aviv",
+    "abbreviatedName": "Hapoel Tel Aviv",
+    "tvCode": "HTA",
+    "countryCode": "ISR",
+    "wikiName": "Hapoel Tel Aviv (basketbol takımı)|Hapoel Tel Aviv",
+    "city": "Tel Aviv"
+  },
+  {
+    "code": "ASV",
+    "name": "LDLC ASVEL Villeurbanne",
+    "abbreviatedName": "ASVEL",
+    "tvCode": "ASV",
+    "countryCode": "FRA",
+    "wikiName": "ASVEL Basket|ASVEL",
+    "city": "LYON"
+  },
+  {
+    "code": "TEL",
+    "name": "Maccabi Rapyd Tel Aviv",
+    "abbreviatedName": "Maccabi",
+    "tvCode": "MTA",
+    "countryCode": "ISR",
+    "wikiName": "Makkabi Tel Aviv (basketbol takımı)|Makkabi Tel Aviv",
+    "city": "TEL AVIV"
+  },
+  {
+    "code": "OLY",
+    "name": "Olympiacos Piraeus",
+    "abbreviatedName": "Olympiacos",
+    "tvCode": "OLY",
+    "countryCode": "GRE",
+    "wikiName": "Olimpiakos (basketbol takımı)|Olimpiakos",
+    "city": "PIRAEUS"
+  },
+  {
+    "code": "PAN",
+    "name": "Panathinaikos AKTOR Athens",
+    "abbreviatedName": "Panathinaikos",
+    "tvCode": "PAO",
+    "countryCode": "GRE",
+    "wikiName": "Panathinaikos (basketbol takımı)|Panathinaikos",
+    "city": "ATHENS"
+  },
+  {
+    "code": "PRS",
+    "name": "Paris Basketball",
+    "abbreviatedName": "Paris",
+    "tvCode": "PBB",
+    "countryCode": "FRA",
+    "wikiName": "Paris Basketball",
+    "city": "Paris"
+  },
+  {
+    "code": "PAR",
+    "name": "Partizan Mozzart Bet Belgrade",
+    "abbreviatedName": "Partizan",
+    "tvCode": "PAR",
+    "countryCode": "SRB",
+    "wikiName": "KK Partizan|Partizan",
+    "city": "BELGRADE"
+  },
+  {
+    "code": "MAD",
+    "name": "Real Madrid",
+    "abbreviatedName": "Real",
+    "tvCode": "RMB",
+    "countryCode": "ESP",
+    "wikiName": "Real Madrid (basketbol takımı)|Real Madrid",
+    "city": "MADRID"
+  },
+  {
+    "code": "PAM",
+    "name": "Valencia Basket",
+    "abbreviatedName": "Valencia",
+    "tvCode": "VBC",
+    "countryCode": "ESP",
+    "wikiName": "Valencia BC|Valencia",
+    "city": "VALENCIA"
+  },
+  {
+    "code": "VIR",
+    "name": "Virtus Bologna",
+    "abbreviatedName": "Virtus",
+    "tvCode": "VIR",
+    "countryCode": "ITA",
+    "wikiName": "Virtus Pallacanestro Bologna|Virtus Bologna",
+    "city": "BOLOGNA"
+  },
+  {
+    "code": "ZAL",
+    "name": "Zalgiris Kaunas",
+    "abbreviatedName": "Zalgiris",
+    "tvCode": "ZAL",
+    "countryCode": "LTU",
+    "wikiName": "BC Žalgiris|Žalgiris",
+    "city": "KAUNAS"
+  }
+]
