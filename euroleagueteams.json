@@ -6,6 +6,7 @@
     "tvCode": "EFS",
     "countryCode": "TUR",
     "wikiName": "Anadolu Efes SK|Anadolu Efes",
+    "wikiShort": "AEF",
     "city": "ISTANBUL"
   },
   {
@@ -15,6 +16,7 @@
     "tvCode": "ASM",
     "countryCode": "MON",
     "wikiName": "AS Monaco BC|Monaco",
+    "wikiShort": "MON",
     "city": "Monaco"
   },
   {
@@ -24,6 +26,7 @@
     "tvCode": "BKN",
     "countryCode": "ESP",
     "wikiName": "Saski Baskonia",
+    "wikiShort": "BAS",
     "city": "VITORIA-GASTEIZ"
   },
   {
@@ -33,6 +36,7 @@
     "tvCode": "CZV",
     "countryCode": "SRB",
     "wikiName": "KK Crvena zvezda|Crvena zvezda",
+    "wikiShort": "CRV",
     "city": "BELGRADE"
   },
   {
@@ -42,6 +46,7 @@
     "tvCode": "DUB",
     "countryCode": "UAE",
     "wikiName": "Dubai Basketball",
+    "wikiShort": "DUB",
     "city": ""
   },
   {
@@ -51,6 +56,7 @@
     "tvCode": "EA7",
     "countryCode": "ITA",
     "wikiName": "Olimpia Milano",
+    "wikiShort": "MIL",
     "city": "MILAN"
   },
   {
@@ -60,6 +66,7 @@
     "tvCode": "BAR",
     "countryCode": "ESP",
     "wikiName": "Barcelona (basketbol takımı)|Barcelona",
+    "wikiShort": "BAR",
     "city": "BARCELONA"
   },
   {
@@ -69,6 +76,7 @@
     "tvCode": "BAY",
     "countryCode": "GER",
     "wikiName": "Bayern München (basketbol takımı)|Bayern Münih",
+    "wikiShort": "BAY",
     "city": "Munich"
   },
   {
@@ -78,6 +86,7 @@
     "tvCode": "FBB",
     "countryCode": "TUR",
     "wikiName": "Fenerbahçe (basketbol takımı)|Fenerbahçe",
+    "wikiShort": "FEN",
     "city": "ISTANBUL"
   },
   {
@@ -87,6 +96,7 @@
     "tvCode": "HTA",
     "countryCode": "ISR",
     "wikiName": "Hapoel Tel Aviv (basketbol takımı)|Hapoel Tel Aviv",
+    "wikiShort": "HAP",
     "city": "Tel Aviv"
   },
   {
@@ -96,6 +106,7 @@
     "tvCode": "ASV",
     "countryCode": "FRA",
     "wikiName": "ASVEL Basket|ASVEL",
+    "wikiShort": "ASV",
     "city": "LYON"
   },
   {
@@ -105,6 +116,7 @@
     "tvCode": "MTA",
     "countryCode": "ISR",
     "wikiName": "Makkabi Tel Aviv (basketbol takımı)|Makkabi Tel Aviv",
+    "wikiShort": "MAC",
     "city": "TEL AVIV"
   },
   {
@@ -114,6 +126,7 @@
     "tvCode": "OLY",
     "countryCode": "GRE",
     "wikiName": "Olimpiakos (basketbol takımı)|Olimpiakos",
+    "wikiShort": "OLY",
     "city": "PIRAEUS"
   },
   {
@@ -123,6 +136,7 @@
     "tvCode": "PAO",
     "countryCode": "GRE",
     "wikiName": "Panathinaikos (basketbol takımı)|Panathinaikos",
+    "wikiShort": "PAN",
     "city": "ATHENS"
   },
   {
@@ -132,6 +146,7 @@
     "tvCode": "PBB",
     "countryCode": "FRA",
     "wikiName": "Paris Basketball",
+    "wikiShort": "PAB",
     "city": "Paris"
   },
   {
@@ -141,6 +156,7 @@
     "tvCode": "PAR",
     "countryCode": "SRB",
     "wikiName": "KK Partizan|Partizan",
+    "wikiShort": "PAR",
     "city": "BELGRADE"
   },
   {
@@ -150,6 +166,7 @@
     "tvCode": "RMB",
     "countryCode": "ESP",
     "wikiName": "Real Madrid (basketbol takımı)|Real Madrid",
+    "wikiShort": "RMA",
     "city": "MADRID"
   },
   {
@@ -159,6 +176,7 @@
     "tvCode": "VBC",
     "countryCode": "ESP",
     "wikiName": "Valencia BC|Valencia",
+    "wikiShort": "VAL",
     "city": "VALENCIA"
   },
   {
@@ -168,6 +186,7 @@
     "tvCode": "VIR",
     "countryCode": "ITA",
     "wikiName": "Virtus Pallacanestro Bologna|Virtus Bologna",
+    "wikiShort": "VBO",
     "city": "BOLOGNA"
   },
   {
@@ -177,6 +196,7 @@
     "tvCode": "ZAL",
     "countryCode": "LTU",
     "wikiName": "BC Žalgiris|Žalgiris",
+    "wikiShort": "ZAL",
     "city": "KAUNAS"
   }
 ]
